@@ -1,0 +1,14 @@
+/Users/ignat/CS/GeekBrains/final paper/bin/Debug/net7.0/final paper
+/Users/ignat/CS/GeekBrains/final paper/bin/Debug/net7.0/final paper.deps.json
+/Users/ignat/CS/GeekBrains/final paper/bin/Debug/net7.0/final paper.runtimeconfig.json
+/Users/ignat/CS/GeekBrains/final paper/bin/Debug/net7.0/final paper.dll
+/Users/ignat/CS/GeekBrains/final paper/bin/Debug/net7.0/final paper.pdb
+/Users/ignat/CS/GeekBrains/final paper/obj/Debug/net7.0/final paper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ignat/CS/GeekBrains/final paper/obj/Debug/net7.0/final paper.AssemblyInfoInputs.cache
+/Users/ignat/CS/GeekBrains/final paper/obj/Debug/net7.0/final paper.AssemblyInfo.cs
+/Users/ignat/CS/GeekBrains/final paper/obj/Debug/net7.0/final paper.csproj.CoreCompileInputs.cache
+/Users/ignat/CS/GeekBrains/final paper/obj/Debug/net7.0/final paper.dll
+/Users/ignat/CS/GeekBrains/final paper/obj/Debug/net7.0/refint/final paper.dll
+/Users/ignat/CS/GeekBrains/final paper/obj/Debug/net7.0/final paper.pdb
+/Users/ignat/CS/GeekBrains/final paper/obj/Debug/net7.0/final paper.genruntimeconfig.cache
+/Users/ignat/CS/GeekBrains/final paper/obj/Debug/net7.0/ref/final paper.dll
